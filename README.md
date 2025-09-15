@@ -1,4 +1,7 @@
-# Hi 👋, I'm Prasanna Kumar
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&color=0078D7&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B,+I'm+Prasanna+Kumar" alt="Typing SVG" />
+
+![Coding GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2dpNjRyOWJpbDB6NHdjOTJib2ZpY2pwc3R5NmJpZHBqZnEyZzZ5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
+
 
 [![Email](https://img.shields.io/badge/Email-prasannakumarmofficial@gmail.com-orange?style=for-the-badge&logo=gmail)](mailto:prasannakumarmofficial@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-PrasannaKumar-lightblue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/prasanna-kumar-m-346694273/)
@@ -47,6 +50,8 @@ I love building **scalable web apps**, **interactive UIs**, and **Dockerized bac
 ![LeetCode Stats](https://leetcard.jacoblin.cool/prasannakumarmofficial?ext=heatmap&theme=light&font=Source_Code_Pro&width=600&height=300&radius=15)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PrasannaKumar-official&theme=light&hide_border=false)
+
+![Snake animation](https://github.com/PrasannaKumar-official/github-contribution-grid-snake.svg)
 
 ---
 
