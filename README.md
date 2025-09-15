@@ -1,7 +1,7 @@
 # Hi 👋, I'm Prasanna Kumar
 
 [![Email](https://img.shields.io/badge/Email-prasannakumarmofficial@gmail.com-orange?style=for-the-badge&logo=gmail)](mailto:prasannakumarmofficial@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-PrasannaKumar-lightblue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/prasanna-kumar-346694273/](https://www.linkedin.com/in/prasanna-kumar-m-346694273/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-PrasannaKumar-lightblue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/prasanna-kumar-m-346694273/)
 [![GitHub](https://img.shields.io/badge/GitHub-PrasannaKumar_official-lightgrey?style=for-the-badge&logo=github)](https://github.com/PrasannaKumar-official)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-Prasanna_Kumar-yellow?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/prasannakumarmofficial/)  
 
@@ -42,11 +42,11 @@ I love building **scalable web apps**, **interactive UIs**, and **Dockerized bac
 
 ## 📊 GitHub & Coding Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrasannaKumar-official&show_icons=true&theme=vision-friendly-light&hide_border=false&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrasannaKumar-official&show_icons=true&theme=radical&hide_border=false&count_private=true)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/prasannakumarmofficial?theme=light&font=Source+Code+Pro&ext=activity)
+![LeetCode Stats](https://leetcard.jacoblin.cool/prasannakumarmofficial?ext=heatmap&theme=unicorn&font=Source_Code_Pro&width=600&height=300&radius=15)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PrasannaKumar-official&theme=react&hide_border=false)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PrasannaKumar-official&theme=radical&hide_border=false)
 
 ---
 
