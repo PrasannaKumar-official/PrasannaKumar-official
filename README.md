@@ -2,12 +2,20 @@
 
 ![Coding GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2dpNjRyOWJpbDB6NHdjOTJib2ZpY2pwc3R5NmJpZHBqZnEyZzZ5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
 
-
-[![Email](https://img.shields.io/badge/Email-prasannakumarmofficial@gmail.com-orange?style=for-the-badge&logo=gmail)](mailto:prasannakumarmofficial@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-PrasannaKumar-lightblue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/prasanna-kumar-m-346694273/)
-[![GitHub](https://img.shields.io/badge/GitHub-PrasannaKumar_official-lightgrey?style=for-the-badge&logo=github)](https://github.com/PrasannaKumar-official)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-Prasanna_Kumar-yellow?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/prasannakumarmofficial/)  
-
+<p align="center">
+  <a href="mailto:prasannakumarmofficial@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-prasannakumarmofficial@gmail.com-orange?style=for-the-badge&logo=gmail" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/prasanna-kumar-m-346694273/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-PrasannaKumar-lightblue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/PrasannaKumar-official" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-PrasannaKumar_official-lightgrey?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <a href="https://leetcode.com/u/prasannakumarmofficial/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Prasanna_Kumar-yellow?style=for-the-badge&logo=leetcode" alt="LeetCode">
+  </a>
+</p>
 ---
 
 ## 👨‍💻 About Me
@@ -51,7 +59,8 @@ I love building **scalable web apps**, **interactive UIs**, and **Dockerized bac
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PrasannaKumar-official&theme=light&hide_border=false)
 
-![Snake animation](https://github.com/PrasannaKumar-official/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/PrasannaKumar-official/PrasannaKumar-official/main/output/github-contribution-grid-snake.svg)
+
 
 ---
 
