@@ -11,9 +11,8 @@
   <a href="https://github.com/PrasannaKumar-official" target="_blank" style="text-decoration:none">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="border:none;" />
   </a>
-  <a href="https://leetcode.com/u/prasannakumarmofficial/" target="_blank" style="text-decoration:none">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="LeetCode" style="border:none;" />
-  </a>
+
+  <a href="https://leetcode.com/u/prasannakumarmofficial/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Prasanna_kumar" height="30" width="40" /></a>
 </p>
 
 
