@@ -2,17 +2,12 @@
 
 ![Coding GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2dpNjRyOWJpbDB6NHdjOTJib0ZpY2pwc3R5NmJpZHBqZnEyZzZ5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
 <p align="left">
-  <a href="mailto:prasannakumarmofficial@gmail.com" target="_blank" style="text-decoration:none">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="border:none;" />
-  </a>
-  <a href="https://www.linkedin.com/in/prasanna-kumar-m-346694273/" target="_blank" style="text-decoration:none">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border:none;" />
-  </a>
-  <a href="https://github.com/PrasannaKumar-official" target="_blank" style="text-decoration:none">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="border:none;" />
-  </a>
-
+  
+  <a href="https://www.linkedin.com/in/prasanna-kumar-m-346694273/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Prasanna-Kumar" height="30" width="40" /></a>
+  
   <a href="https://leetcode.com/u/prasannakumarmofficial/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Prasanna_kumar" height="30" width="40" /></a>
+  
+  <a href="https://www.codechef.com/users/prasanna_offl" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="prasanna_kumar" height="30" width="40" /></a>
 </p>
 
 
