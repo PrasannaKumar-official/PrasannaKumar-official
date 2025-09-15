@@ -2,18 +2,18 @@
 
 ![Coding GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2dpNjRyOWJpbDB6NHdjOTJib2ZpY2pwc3R5NmJpZHBqZnEyZzZ5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
 <p align="center">
-<a href="mailto:prasannakumarmofficial@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-<a href="https://www.linkedin.com/in/prasanna-kumar-m-346694273/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="https://github.com/PrasannaKumar-official" target="_blank">
-<img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-<a href="https://leetcode.com/u/prasannakumarmofficial/" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode">
-</a>
+  <a href="mailto:prasannakumarmofficial@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-prasannakumarmofficial@gmail.com-orange?style=for-the-badge&logo=gmail" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/prasanna-kumar-m-346694273/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-PrasannaKumar-lightblue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/PrasannaKumar-official" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-PrasannaKumar_official-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://leetcode.com/u/prasannakumarmofficial/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="LeetCode">
+  </a>
 </p>
 ---
 
@@ -57,8 +57,6 @@ I love building **scalable web apps**, **interactive UIs**, and **Dockerized bac
 ![LeetCode Stats](https://leetcard.jacoblin.cool/prasannakumarmofficial?ext=heatmap&theme=light&font=Source_Code_Pro&width=600&height=300&radius=15)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PrasannaKumar-official&theme=light&hide_border=false)
-
-![Snake animation](https://raw.githubusercontent.com/PrasannaKumar-official/PrasannaKumar-official/main/output/github-contribution-grid-snake.svg)
 
 
 ---
