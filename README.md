@@ -3,17 +3,17 @@
 ![Coding GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2dpNjRyOWJpbDB6NHdjOTJib0ZpY2pwc3R5NmJpZHBqZnEyZzZ5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
 
 <p align="left">
-  <a href="mailto:prasannakumarmofficial@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <a href="mailto:prasannakumarmofficial@gmail.com" target="_blank" style="text-decoration:none">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="border:none;"/>
   </a>
-  <a href="https://www.linkedin.com/in/prasanna-kumar-m-346694273/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/prasanna-kumar-m-346694273/" target="_blank" style="text-decoration:none">
+    <img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border:none;"/>
   </a>
-  <a href="https://github.com/PrasannaKumar-official" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://github.com/PrasannaKumar-official" target="_blank" style="text-decoration:none">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="border:none;"/>
   </a>
-  <a href="https://leetcode.com/u/prasannakumarmofficial/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="LeetCode"/>
+  <a href="https://leetcode.com/u/prasannakumarmofficial/" target="_blank" style="text-decoration:none">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="LeetCode" style="border:none;"/>
   </a>
 </p>
 
