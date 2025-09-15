@@ -25,7 +25,7 @@ I love building **scalable web apps**, **interactive UIs**, and **Dockerized bac
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+
 
 ### Web & Database
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
@@ -42,11 +42,11 @@ I love building **scalable web apps**, **interactive UIs**, and **Dockerized bac
 
 ## 📊 GitHub & Coding Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrasannaKumar-official&show_icons=true&theme=radical&hide_border=false&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrasannaKumar-official&show_icons=true&theme=light&hide_border=false&count_private=true)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/prasannakumarmofficial?ext=heatmap&theme=unicorn&font=Source_Code_Pro&width=600&height=300&radius=15)
+![LeetCode Stats](https://leetcard.jacoblin.cool/prasannakumarmofficial?ext=heatmap&theme=light&font=Source_Code_Pro&width=600&height=300&radius=15)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PrasannaKumar-official&theme=radical&hide_border=false)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PrasannaKumar-official&theme=light&hide_border=false)
 
 ---
 
