@@ -58,11 +58,4 @@ I love building **scalable web apps**, **interactive UIs**, and **Dockerized bac
 
 ---
 
-## 📫 Contact Me
-- Email: prasannakumarmofficial@gmail.com  
-- LinkedIn: [PrasannaKumar](https://www.linkedin.com/in/prasanna-kumar-346694273/)  
-- GitHub: [PrasannaKumar-official](https://github.com/PrasannaKumar-official)
-
----
-
 ✨ Thank You for Visting !!!
