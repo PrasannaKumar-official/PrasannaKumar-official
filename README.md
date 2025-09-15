@@ -1,18 +1,19 @@
 # <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&color=0078D7&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B,+I'm+Prasanna+Kumar" alt="Typing SVG" />
 
 ![Coding GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2dpNjRyOWJpbDB6NHdjOTJib2ZpY2pwc3R5NmJpZHBqZnEyZzZ5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
-<p align="center">
-  <a href="mailto:prasannakumarmofficial@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-prasannakumarmofficial@gmail.com-orange?style=for-the-badge&logo=gmail" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/prasanna-kumar-m-346694273/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-PrasannaKumar-lightblue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+<a href="mailto:prasannakumarmofficial@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+
+<p align="left">
+  <a href="https://linkedin.com/in/prasanna-kumar-m-346694273/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/PrasannaKumar-official" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-PrasannaKumar_official-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://leetcode.com/u/prasannakumarmofficial/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="LeetCode">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=yellow" alt="LeetCode"/>
   </a>
 </p>
 ---
