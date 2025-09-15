@@ -1,7 +1,7 @@
 # Hi 👋, I'm Prasanna Kumar
 
 [![Email](https://img.shields.io/badge/Email-prasannakumarmofficial@gmail.com-orange?style=for-the-badge&logo=gmail)](mailto:prasannakumarmofficial@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-PrasannaKumar-lightblue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/prasanna-kumar-346694273/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-PrasannaKumar-lightblue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/prasanna-kumar-346694273/](https://www.linkedin.com/in/prasanna-kumar-m-346694273/))  
 [![GitHub](https://img.shields.io/badge/GitHub-PrasannaKumar_official-lightgrey?style=for-the-badge&logo=github)](https://github.com/PrasannaKumar-official)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-Prasanna_Kumar-yellow?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/prasannakumarmofficial/)  
 
